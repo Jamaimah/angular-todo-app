@@ -6,13 +6,13 @@ This is a simple Todo-List web application built with Angular that allows users 
 ## Screenshots
 
 ### 📝 Task List View
-![Task List](./screenshots/Capture.png) 
+![Task List](./screenshots/Capture.PNG) 
 
 ### ➕ Add New Task
-![Add Task](./screenshots/2.png) 
+![Add Task](./screenshots/2.PNG) 
 
 ### ✏️ Delete Task 
-![Delete Task](./screenshots/del.png) 
+![Delete Task](./screenshots/del.PNG) 
 
 ## Features
 - Display a list of tasks with title and notes.
