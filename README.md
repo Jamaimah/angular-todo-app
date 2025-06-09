@@ -43,5 +43,3 @@ This is a simple Todo-List web application built with Angular that allows users 
 ```bash
 npm install -g @angular/cli
 
-
-
